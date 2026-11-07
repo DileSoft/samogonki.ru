@@ -429,10 +429,11 @@ a.is-active .icon-swap__base {
   gap: 2px;
   width: 99px;
   color: #ff7a00;
-  font: bold 15px/0.95 'Courier New', 'Lucida Console', monospace;
-  letter-spacing: 0.08em;
+  font: bold 14px/0.95 'Courier New', 'Lucida Console', monospace;
+  letter-spacing: 0.03em;
   text-align: center;
   text-transform: uppercase;
+  white-space: nowrap;
   text-shadow: 0 1px 0 #7a2e00, 0 0 6px rgba(255, 106, 0, 0.25);
 }
 

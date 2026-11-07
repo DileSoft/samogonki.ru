@@ -23,7 +23,7 @@
   "online": {
     "label": "Самогонки On-line",
     "to": "/online",
-    "textLines": ["Самогон", "On-line"],
+    "textLines": ["Самогонки", "On-line"],
     "startImage": "assets/start.gif",
     "startImageHover": "assets/start-on.gif"
   },
