@@ -12,8 +12,12 @@ import ContactsPage from './pages/ContactsPage'
 import FilesPage from './pages/FilesPage'
 import OnlinePage from './pages/OnlinePage'
 import GamesPage from './pages/GamesPage'
+import GameDetailPage from './pages/GameDetailPage'
 import ChampionshipsPage from './pages/ChampionshipsPage'
 import ForumPage from './pages/ForumPage'
+import ForumThreadPage from './pages/ForumThreadPage'
+import PlayerPage from './pages/PlayerPage'
+import ReplaysPage from './pages/ReplaysPage'
 import MapPage from './pages/MapPage'
 import NotFoundPage from './pages/NotFoundPage'
 
@@ -38,11 +42,20 @@ function ScrollToTop() {
       '/online': 'Самогонки: On-line',
       '/games': 'Самогонки: Игры',
       '/championships': 'Самогонки: Чемпионаты',
+      '/replays': 'Самогонки: Повторы игр',
       '/forum': 'Самогонки: Форум',
       '/map': 'Самогонки: Карта сайта',
     }
 
-    document.title = pathname.startsWith('/news/') ? 'Самогонки: Новость' : (titles[pathname] ?? 'Самогонки')
+    document.title = pathname.startsWith('/news/')
+      ? 'Самогонки: Новость'
+      : pathname.startsWith('/games/')
+        ? 'Самогонки: Игра'
+        : pathname.startsWith('/forum/')
+          ? 'Самогонки: Тема форума'
+          : pathname.startsWith('/players/')
+            ? 'Самогонки: Игрок'
+            : (titles[pathname] ?? 'Самогонки')
   }, [pathname])
 
   return null
@@ -66,8 +79,12 @@ export default function App() {
           <Route path="/files" element={<FilesPage />} />
           <Route path="/online" element={<OnlinePage />} />
           <Route path="/games" element={<GamesPage />} />
+          <Route path="/games/:gameId" element={<GameDetailPage />} />
           <Route path="/championships" element={<ChampionshipsPage />} />
+          <Route path="/replays" element={<ReplaysPage />} />
           <Route path="/forum" element={<ForumPage />} />
+          <Route path="/forum/:threadId" element={<ForumThreadPage />} />
+          <Route path="/players/:playerId" element={<PlayerPage />} />
           <Route path="/map" element={<MapPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>

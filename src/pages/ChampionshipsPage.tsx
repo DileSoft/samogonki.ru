@@ -1,10 +1,16 @@
 import { Link } from 'react-router-dom'
 import PageHeader from '../components/PageHeader'
+import { useArchiveJson } from '../lib/useArchiveJson'
+import type { ArchiveGame } from '../types/archive'
 import games from '../data/games.json'
 import news from '../data/news.json'
 
 export default function ChampionshipsPage() {
   const championship = games.championship
+  const { data: archiveGames } = useArchiveJson<ArchiveGame[]>('championships-archive.json')
+  const championships = (archiveGames ?? [])
+    .filter((game) => game.isChampionship && game.id !== championship.id)
+    .sort((a, b) => b.id - a.id)
   const chronicle = news
     .filter((item) => item.id >= 221 && item.id <= 227)
     .sort((a, b) => a.id - b.id)
@@ -89,6 +95,52 @@ export default function ChampionshipsPage() {
           <Link className="button-link button-link--ghost" to="/games">
             Все игры сервера
           </Link>
+        </div>
+      </section>
+
+      <section aria-labelledby="champ-list-title">
+        <h2 id="champ-list-title" className="section-title section-title--spaced">
+          <span>Чемпионаты в архиве</span>
+          <img src="assets/titarr.gif" alt="" width={34} height={10} aria-hidden="true" />
+        </h2>
+        <div className="accent-rule" />
+
+        <p className="table-note">
+          Найдено игр с «Чемпионат» в названии:{' '}
+          <strong>{archiveGames ? championships.length + 1 : '…'}</strong>. Полные сетки всех
+          чемпионатов не сохранились, но отдельные игры и финалы доступны.
+        </p>
+
+        <div className="championship-list">
+          {championships.map((game) => (
+            <article className="championship-list__item" key={game.id}>
+              <div className="championship-list__head">
+                <span className="status-pill status-pill--gold">Чемпионат</span>
+                <Link to={`/games/${game.id}`}>
+                  <strong>{game.title}</strong>
+                </Link>
+                <span className="game-card__id">#{game.id}</span>
+              </div>
+              <div className="championship-list__meta">
+                <span>
+                  <em>Трасса:</em> {game.track ?? '—'}
+                </span>
+                <span>
+                  <em>Игроков:</em> {game.players ?? '—'}
+                </span>
+                <span>
+                  <em>Победитель:</em> {game.winner ?? '—'}
+                </span>
+                <span>
+                  <em>Дата:</em> {game.start ?? game.end ?? '—'}
+                </span>
+              </div>
+              <Link className="text-link" to={`/games/${game.id}`}>
+                Подробнее об игре →
+              </Link>
+            </article>
+          ))}
+          {!archiveGames && <div className="archive-loading">Загружаем список чемпионатов…</div>}
         </div>
       </section>
 

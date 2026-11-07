@@ -74,17 +74,27 @@ export default function OnlinePage() {
         <Link className="server-data-card" to="/games">
           <span className="server-data-card__icon" aria-hidden="true">01</span>
           <strong>Игры сервера</strong>
-          <span>10 архивных записей из 1435: трассы, владельцы, победители и комментарии.</span>
+          <span>1022 архивные игры: трассы, владельцы, победители, повторы и комментарии.</span>
         </Link>
         <Link className="server-data-card" to="/championships">
           <span className="server-data-card__icon" aria-hidden="true">17</span>
           <strong>Чемпионаты</strong>
-          <span>Финал 17-го чемпионата: участники, заклинания и финишная статистика.</span>
+          <span>Финалы и отдельные игры чемпионатов: участники, заклинания и статистика.</span>
         </Link>
         <Link className="server-data-card" to="/games">
           <span className="server-data-card__icon" aria-hidden="true">135</span>
           <strong>Рейтинг игроков</strong>
-          <span>Первые 20 самогонщиков из рейтинга 2005 года.</span>
+          <span>135 игроков рейтинга, 111 анкет и лучшие игры самогонщиков.</span>
+        </Link>
+        <Link className="server-data-card" to="/forum">
+          <span className="server-data-card__icon" aria-hidden="true">Ф</span>
+          <strong>Форум</strong>
+          <span>347 тем, 250 архивных обсуждений и несколько тысяч сообщений.</span>
+        </Link>
+        <Link className="server-data-card" to="/replays">
+          <span className="server-data-card__icon" aria-hidden="true">R</span>
+          <strong>Повторы игр</strong>
+          <span>Файлы .msr с записями онлайн-заездов из веб-архива.</span>
         </Link>
       </div>
 

@@ -2061,6 +2061,483 @@ a.is-active .icon-swap__base {
   line-height: 16px;
 }
 
+/* ---------- Extended archive UI ---------- */
+
+.status-pill--gold {
+  border-color: #6b5529;
+  background: rgba(252, 179, 69, 0.1);
+  color: var(--orange);
+}
+
+.status-pill--blue {
+  border-color: #2f4f73;
+  background: rgba(94, 145, 254, 0.1);
+  color: var(--blue-light);
+}
+
+.game-card__head h3 a {
+  color: #e8ecef;
+}
+
+.game-card__head h3 a:hover {
+  color: var(--orange-soft);
+  text-decoration: none;
+}
+
+.game-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px 16px;
+  margin-top: 10px;
+}
+
+.game-card__actions .text-link {
+  margin-top: 0;
+}
+
+.archive-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 12px;
+  margin: 0 0 14px;
+  padding: 12px 14px;
+  border: 1px solid #232c34;
+  background: #0a0e12;
+}
+
+.filter-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  color: #8e9aa2;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.filter-field--search {
+  flex: 1;
+  min-width: 240px;
+}
+
+.filter-field input,
+.filter-field select {
+  padding: 8px 10px;
+  border: 1px solid #39444d;
+  border-radius: 2px;
+  background: #05080b;
+  color: var(--text);
+  font: 12px Verdana, Arial, sans-serif;
+  outline: none;
+}
+
+.filter-field input:focus,
+.filter-field select:focus {
+  border-color: var(--blue);
+  box-shadow: 0 0 0 2px rgba(94, 145, 254, 0.15);
+}
+
+.filter-check {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 10px;
+  border: 1px solid #2c353d;
+  background: #0d1318;
+  color: #c4cdd5;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.filter-check input {
+  accent-color: var(--blue);
+}
+
+.archive-loading,
+.archive-error {
+  margin: 16px 0;
+  padding: 14px 16px;
+  border: 1px solid #2c353d;
+  background: #0a0e12;
+  color: #9daab4;
+  font-size: 12px;
+}
+
+.archive-error {
+  border-color: #6b3434;
+  background: rgba(180, 60, 60, 0.08);
+  color: #e7a7a7;
+}
+
+.result-count {
+  margin: 0 0 12px;
+  color: #8e9aa2;
+  font-size: 11px;
+}
+
+.result-count strong {
+  color: #e8ecef;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 20px 0 8px;
+}
+
+.pagination__button {
+  padding: 7px 13px;
+  border: 1px solid #39444d;
+  border-radius: 2px;
+  background: #0d1318;
+  color: var(--link);
+  font: bold 11px Tahoma, Arial, sans-serif;
+  cursor: pointer;
+}
+
+.pagination__button:hover:not(:disabled) {
+  border-color: var(--blue);
+  color: #fff;
+}
+
+.pagination__button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.pagination__info {
+  color: #8e9aa2;
+  font-size: 11px;
+}
+
+.ratings-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.ratings-footer .table-note {
+  margin: 0;
+}
+
+.ratings-footer .button-link {
+  flex: 0 0 auto;
+}
+
+.game-detail__badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 14px;
+}
+
+.game-detail__facts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px 16px;
+  margin: 0 0 18px;
+  padding: 16px;
+  border: 1px solid #262f37;
+  background: #0a0e12;
+}
+
+.game-detail__facts dt {
+  color: #6f7d88;
+  font-size: 9px;
+  line-height: 1.3;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.game-detail__facts dd {
+  margin: 3px 0 0;
+  color: #e3e8ec;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.game-detail__winner {
+  color: var(--orange) !important;
+  font-weight: bold;
+}
+
+.game-detail__winner span {
+  color: #7fd45c;
+  font-size: 10px;
+}
+
+.championship-list {
+  display: grid;
+  gap: 10px;
+}
+
+.championship-list__item {
+  padding: 13px 15px;
+  border: 1px solid #262f37;
+  border-left: 2px solid #6b5529;
+  background: #0a0e12;
+}
+
+.championship-list__head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.championship-list__head a {
+  color: #e8ecef;
+  font: bold 13px/1.3 Arial, Helvetica, sans-serif;
+}
+
+.championship-list__head a:hover {
+  color: var(--orange-soft);
+}
+
+.championship-list__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin-top: 7px;
+  color: #9daab4;
+  font-size: 10px;
+}
+
+.championship-list__meta em {
+  color: #6f7d88;
+  font-style: normal;
+}
+
+.forum-sections {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 14px;
+}
+
+.forum-section-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 12px;
+  border: 1px solid #2c353d;
+  border-radius: 2px;
+  background: #0a0e12;
+  color: #9fb2c3;
+  font: 11px/1.2 Tahoma, Arial, sans-serif;
+  cursor: pointer;
+}
+
+.forum-section-tab:hover,
+.forum-section-tab.is-active {
+  border-color: var(--blue);
+  color: #fff;
+  background: rgba(94, 145, 254, 0.08);
+}
+
+.forum-section-tab span {
+  padding: 1px 5px;
+  border-radius: 8px;
+  background: #1a2229;
+  color: #8e9aa2;
+  font-size: 9px;
+}
+
+.forum-topic-list {
+  display: grid;
+  gap: 7px;
+}
+
+.forum-section-description {
+  margin: 0 0 14px;
+  padding: 9px 12px;
+  border-left: 2px solid var(--blue);
+  background: rgba(94, 145, 254, 0.05);
+  color: #9daab4;
+  font-size: 11px;
+  line-height: 16px;
+}
+
+.forum-topic {
+  padding: 11px 14px;
+  border: 1px solid #232c34;
+  background: #0a0e12;
+}
+
+.forum-topic.is-archived {
+  border-left: 2px solid var(--blue);
+}
+
+.forum-topic__main {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px 10px;
+}
+
+.forum-topic__section {
+  color: #6f7d88;
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.forum-topic__title {
+  flex: 1;
+  min-width: 200px;
+  color: #cfe2f5;
+  font: bold 12px/1.35 Arial, Helvetica, sans-serif;
+}
+
+a.forum-topic__title:hover {
+  color: #fff;
+}
+
+.forum-topic:not(.is-archived) .forum-topic__title {
+  color: #9daab4;
+}
+
+.forum-topic__status {
+  color: #6f7d88;
+  font-size: 9px;
+  white-space: nowrap;
+}
+
+.forum-topic__status.is-ok {
+  color: #7fd45c;
+}
+
+.forum-topic__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 16px;
+  margin-top: 6px;
+  color: #8e9aa2;
+  font-size: 10px;
+}
+
+.forum-topic__meta em {
+  color: #6f7d88;
+  font-style: normal;
+}
+
+.forum-thread__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin: 0 0 14px;
+  padding: 10px 14px;
+  border: 1px solid #232c34;
+  background: #0a0e12;
+  color: #9daab4;
+  font-size: 10px;
+}
+
+.forum-thread__stats em {
+  color: #6f7d88;
+  font-style: normal;
+}
+
+.forum-thread__stats a {
+  margin-left: auto;
+  color: var(--blue-light);
+}
+
+.forum-thread {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.forum-post {
+  padding: 14px 16px;
+  border: 1px solid #262f37;
+  background: #0a0e12;
+}
+
+.forum-post__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #1c242b;
+}
+
+.forum-post__author {
+  color: var(--orange);
+  font: bold 12px/1.3 Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+a.forum-post__author:hover {
+  color: var(--orange-soft);
+  text-decoration: underline;
+}
+
+.forum-post__footer a {
+  color: #7f96a8;
+}
+
+.forum-post__footer a:hover {
+  color: var(--blue-light);
+}
+
+.player-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 280px;
+  gap: 18px;
+  align-items: start;
+  margin-bottom: 18px;
+}
+
+.player-main,
+.player-side {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.player-about {
+  margin: 0;
+  color: #d6dde3;
+  font-size: 12px;
+  line-height: 17px;
+  white-space: pre-wrap;
+}
+
+.player-best-games {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 7px;
+}
+
+.player-best-games li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #1c242b;
+  font-size: 11px;
+}
+
+.player-best-games li:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.player-best-games span {
+  color: #7fd45c;
+  white-space: nowrap;
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {
@@ -2344,8 +2821,33 @@ a.is-active .icon-swap__base {
   }
 
   .game-card__meta,
-  .championship-facts {
+  .championship-facts,
+  .game-detail__facts {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .archive-filters {
+    align-items: stretch;
+  }
+
+  .filter-field--search {
+    flex-basis: 100%;
+    min-width: 0;
+  }
+
+  .ratings-footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .forum-topic__title {
+    min-width: 0;
+    flex-basis: 100%;
+  }
+
+  .forum-post__head {
+    flex-direction: column;
+    gap: 4px;
   }
 
   .chronicle li {
@@ -2534,7 +3036,8 @@ a.is-active .icon-swap__base {
 
   .server-stats,
   .game-card__meta,
-  .championship-facts {
+  .championship-facts,
+  .game-detail__facts {
     grid-template-columns: 1fr;
   }
 }

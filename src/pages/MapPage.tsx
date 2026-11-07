@@ -82,6 +82,7 @@ export default function MapPage() {
             <li><Link to="/online">Вход и регистрация</Link></li>
             <li><Link to="/games">Игры сервера</Link></li>
             <li><Link to="/championships">Чемпионаты</Link></li>
+            <li><Link to="/replays">Повторы игр</Link></li>
             <li><Link to="/games">Рейтинг игроков</Link></li>
           </ul>
         </section>
