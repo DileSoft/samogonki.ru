@@ -2493,6 +2493,38 @@ a.forum-post__author:hover {
   text-decoration: underline;
 }
 
+.forum-post__subject {
+  margin-left: 12px;
+  color: #8e9aa2;
+  font-size: 10px;
+}
+
+.forum-post__date {
+  color: #6f7d88;
+  font-size: 10px;
+  white-space: nowrap;
+}
+
+.forum-post__body {
+  margin-top: 9px;
+  color: #dfe5ea;
+  font-size: 12px;
+  line-height: 18px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.forum-post__footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 10px;
+  padding-top: 7px;
+  border-top: 1px solid #1c242b;
+  color: #59646d;
+  font-size: 9px;
+}
+
 .forum-post__footer a {
   color: #7f96a8;
 }
