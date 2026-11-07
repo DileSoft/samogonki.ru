@@ -102,6 +102,12 @@
     "archiveUrl": "https://web.archive.org/web/20050116080025/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3763&CF=View&rand=710627"
   },
   {
+    "id": 3762,
+    "file": "replays/3762.msr",
+    "size": 1489,
+    "archiveUrl": "https://web.archive.org/web/20030513200247/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3762&CF=View&rand=467788"
+  },
+  {
     "id": 3761,
     "file": "replays/3761.msr",
     "size": 2234,
@@ -130,6 +136,12 @@
     "file": "replays/3720.msr",
     "size": 2227,
     "archiveUrl": "https://web.archive.org/web/20030930012711/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3720&CF=View&rand=719502"
+  },
+  {
+    "id": 3716,
+    "file": "replays/3716.msr",
+    "size": 2888,
+    "archiveUrl": "https://web.archive.org/web/20030930013114/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3716&CF=View&rand=531508"
   },
   {
     "id": 3713,
@@ -240,6 +252,12 @@
     "archiveUrl": "https://web.archive.org/web/20050115190918/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3651&CF=View&rand=910632"
   },
   {
+    "id": 3650,
+    "file": "replays/3650.msr",
+    "size": 1547,
+    "archiveUrl": "https://web.archive.org/web/20050115052227/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3650&CF=View&rand=297554"
+  },
+  {
     "id": 3649,
     "file": "replays/3649.msr",
     "size": 3926,
@@ -268,6 +286,30 @@
     "file": "replays/3615.msr",
     "size": 1467,
     "archiveUrl": "https://web.archive.org/web/20041228045514/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3615&CF=View&rand=503410"
+  },
+  {
+    "id": 3614,
+    "file": "replays/3614.msr",
+    "size": 630,
+    "archiveUrl": "https://web.archive.org/web/20050115060236/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3614&CF=View&rand=153759"
+  },
+  {
+    "id": 3613,
+    "file": "replays/3613.msr",
+    "size": 5200,
+    "archiveUrl": "https://web.archive.org/web/20030928234753/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3613&CF=View&rand=220599"
+  },
+  {
+    "id": 3612,
+    "file": "replays/3612.msr",
+    "size": 3551,
+    "archiveUrl": "https://web.archive.org/web/20030928234014/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3612&CF=View&rand=710419"
+  },
+  {
+    "id": 3609,
+    "file": "replays/3609.msr",
+    "size": 2468,
+    "archiveUrl": "https://web.archive.org/web/20041228045448/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3609&CF=View&rand=704447"
   },
   {
     "id": 3604,
@@ -300,10 +342,22 @@
     "archiveUrl": "https://web.archive.org/web/20031231152132/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3574&CF=View&rand=430543"
   },
   {
+    "id": 3573,
+    "file": "replays/3573.msr",
+    "size": 4666,
+    "archiveUrl": "https://web.archive.org/web/20050115055433/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3573&CF=View&rand=848344"
+  },
+  {
     "id": 3571,
     "file": "replays/3571.msr",
     "size": 4683,
     "archiveUrl": "https://web.archive.org/web/20030925082105/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3571&CF=View&rand=370158"
+  },
+  {
+    "id": 3567,
+    "file": "replays/3567.msr",
+    "size": 5470,
+    "archiveUrl": "https://web.archive.org/web/20050115054316/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3567&CF=View&rand=576789"
   },
   {
     "id": 3566,
@@ -358,6 +412,12 @@
     "file": "replays/3512.msr",
     "size": 1510,
     "archiveUrl": "https://web.archive.org/web/20030907032528/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3512&CF=View&rand=114314"
+  },
+  {
+    "id": 3510,
+    "file": "replays/3510.msr",
+    "size": 3562,
+    "archiveUrl": "https://web.archive.org/web/20050129212529/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3510&CF=View&rand=681279"
   },
   {
     "id": 3506,
@@ -424,6 +484,12 @@
     "file": "replays/3490.msr",
     "size": 2488,
     "archiveUrl": "https://web.archive.org/web/20050114165636/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3490&CF=View&rand=375884"
+  },
+  {
+    "id": 3489,
+    "file": "replays/3489.msr",
+    "size": 2569,
+    "archiveUrl": "https://web.archive.org/web/20050114163314/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3489&CF=View&rand=633665"
   },
   {
     "id": 3486,
@@ -678,6 +744,12 @@
     "archiveUrl": "https://web.archive.org/web/20030907045727/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3339&CF=View&rand=147465"
   },
   {
+    "id": 3338,
+    "file": "replays/3338.msr",
+    "size": 2732,
+    "archiveUrl": "https://web.archive.org/web/20031231145830/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3338&CF=View&rand=542758"
+  },
+  {
     "id": 3322,
     "file": "replays/3322.msr",
     "size": 1928,
@@ -694,6 +766,12 @@
     "file": "replays/3318.msr",
     "size": 1926,
     "archiveUrl": "https://web.archive.org/web/20040825095523/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3318&CF=View&rand=550089"
+  },
+  {
+    "id": 3317,
+    "file": "replays/3317.msr",
+    "size": 4151,
+    "archiveUrl": "https://web.archive.org/web/20040114184352/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3317&CF=View&rand=902877"
   },
   {
     "id": 3316,
@@ -990,6 +1068,12 @@
     "archiveUrl": "https://web.archive.org/web/20030730180543/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3215&CF=View&rand=368447"
   },
   {
+    "id": 3214,
+    "file": "replays/3214.msr",
+    "size": 1923,
+    "archiveUrl": "https://web.archive.org/web/20050129212430/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3214&CF=View&rand=833938"
+  },
+  {
     "id": 3213,
     "file": "replays/3213.msr",
     "size": 2471,
@@ -1012,6 +1096,12 @@
     "file": "replays/3202.msr",
     "size": 5492,
     "archiveUrl": "https://web.archive.org/web/20030923131019/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3202&CF=View&rand=232771"
+  },
+  {
+    "id": 3199,
+    "file": "replays/3199.msr",
+    "size": 3287,
+    "archiveUrl": "https://web.archive.org/web/20030923131322/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3199&CF=View&rand=323757"
   },
   {
     "id": 3198,
@@ -1054,6 +1144,12 @@
     "file": "replays/3183.msr",
     "size": 2349,
     "archiveUrl": "https://web.archive.org/web/20030928234614/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3183&CF=View&rand=794058"
+  },
+  {
+    "id": 3182,
+    "file": "replays/3182.msr",
+    "size": 1883,
+    "archiveUrl": "https://web.archive.org/web/20030923131037/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3182&CF=View&rand=359268"
   },
   {
     "id": 3179,
@@ -1152,6 +1248,12 @@
     "archiveUrl": "https://web.archive.org/web/20030801022948/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3140&CF=View&rand=392750"
   },
   {
+    "id": 3139,
+    "file": "replays/3139.msr",
+    "size": 3188,
+    "archiveUrl": "https://web.archive.org/web/20030905012435/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3139&CF=View&rand=199418"
+  },
+  {
     "id": 3138,
     "file": "replays/3138.msr",
     "size": 3193,
@@ -1192,6 +1294,12 @@
     "file": "replays/3118.msr",
     "size": 1869,
     "archiveUrl": "https://web.archive.org/web/20030801021142/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3118&CF=View&rand=807240"
+  },
+  {
+    "id": 3116,
+    "file": "replays/3116.msr",
+    "size": 1453,
+    "archiveUrl": "https://web.archive.org/web/20030730175847/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3116&CF=View&rand=933316"
   },
   {
     "id": 3115,
@@ -1264,6 +1372,12 @@
     "file": "replays/3087.msr",
     "size": 2486,
     "archiveUrl": "https://web.archive.org/web/20030923130737/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3087&CF=View&rand=272828"
+  },
+  {
+    "id": 3086,
+    "file": "replays/3086.msr",
+    "size": 1825,
+    "archiveUrl": "https://web.archive.org/web/20030923130652/http://www.samogonki.ru:80/game-on-line/default.asp?ID=3086&CF=View&rand=976715"
   },
   {
     "id": 3085,
@@ -1422,6 +1536,12 @@
     "archiveUrl": "https://web.archive.org/web/20030707150759/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2998&CF=View&rand=571661"
   },
   {
+    "id": 2997,
+    "file": "replays/2997.msr",
+    "size": 1537,
+    "archiveUrl": "https://web.archive.org/web/20030707150336/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2997&CF=View&rand=974949"
+  },
+  {
     "id": 2995,
     "file": "replays/2995.msr",
     "size": 2685,
@@ -1476,6 +1596,18 @@
     "archiveUrl": "https://web.archive.org/web/20030919034517/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2953&CF=View&rand=535721"
   },
   {
+    "id": 2950,
+    "file": "replays/2950.msr",
+    "size": 2312,
+    "archiveUrl": "https://web.archive.org/web/20030522203007/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2950&CF=View&rand=755450"
+  },
+  {
+    "id": 2948,
+    "file": "replays/2948.msr",
+    "size": 2410,
+    "archiveUrl": "https://web.archive.org/web/20030720095940/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2948&CF=View&rand=316664"
+  },
+  {
     "id": 2943,
     "file": "replays/2943.msr",
     "size": 3132,
@@ -1500,6 +1632,12 @@
     "archiveUrl": "https://web.archive.org/web/20030919034424/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2936&CF=View&rand=669115"
   },
   {
+    "id": 2933,
+    "file": "replays/2933.msr",
+    "size": 1745,
+    "archiveUrl": "https://web.archive.org/web/20030919034751/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2933&CF=View&rand=411477"
+  },
+  {
     "id": 2931,
     "file": "replays/2931.msr",
     "size": 2350,
@@ -1516,6 +1654,12 @@
     "file": "replays/2921.msr",
     "size": 1992,
     "archiveUrl": "https://web.archive.org/web/20040726114452/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2921&CF=View&rand=470357"
+  },
+  {
+    "id": 2912,
+    "file": "replays/2912.msr",
+    "size": 3389,
+    "archiveUrl": "https://web.archive.org/web/20030919034123/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2912&CF=View&rand=639370"
   },
   {
     "id": 2911,
@@ -1638,6 +1782,12 @@
     "archiveUrl": "https://web.archive.org/web/20040726114823/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2864&CF=View&rand=856654"
   },
   {
+    "id": 2853,
+    "file": "replays/2853.msr",
+    "size": 2405,
+    "archiveUrl": "https://web.archive.org/web/20020326005651/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2853&CF=View&rand=157203"
+  },
+  {
     "id": 2851,
     "file": "replays/2851.msr",
     "size": 1891,
@@ -1746,6 +1896,12 @@
     "archiveUrl": "https://web.archive.org/web/20030730174331/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2817&CF=View&rand=898630"
   },
   {
+    "id": 2816,
+    "file": "replays/2816.msr",
+    "size": 3035,
+    "archiveUrl": "https://web.archive.org/web/20030919034226/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2816&CF=View&rand=822351"
+  },
+  {
     "id": 2815,
     "file": "replays/2815.msr",
     "size": 1455,
@@ -1806,6 +1962,12 @@
     "archiveUrl": "https://web.archive.org/web/20030919034435/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2792&CF=View&rand=507851"
   },
   {
+    "id": 2789,
+    "file": "replays/2789.msr",
+    "size": 2795,
+    "archiveUrl": "https://web.archive.org/web/20030919034155/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2789&CF=View&rand=958077"
+  },
+  {
     "id": 2777,
     "file": "replays/2777.msr",
     "size": 2538,
@@ -1858,6 +2020,12 @@
     "file": "replays/2756.msr",
     "size": 1852,
     "archiveUrl": "https://web.archive.org/web/20030521203515/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2756&CF=View&rand=608757"
+  },
+  {
+    "id": 2755,
+    "file": "replays/2755.msr",
+    "size": 3174,
+    "archiveUrl": "https://web.archive.org/web/20030521203643/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2755&CF=View&rand=937453"
   },
   {
     "id": 2753,
@@ -2274,6 +2442,12 @@
     "archiveUrl": "https://web.archive.org/web/20030730170532/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2561&CF=View&rand=510717"
   },
   {
+    "id": 2541,
+    "file": "replays/2541.msr",
+    "size": 1871,
+    "archiveUrl": "https://web.archive.org/web/20030509115218/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2541&CF=View&rand=193939"
+  },
+  {
     "id": 2540,
     "file": "replays/2540.msr",
     "size": 1995,
@@ -2326,6 +2500,18 @@
     "file": "replays/2521.msr",
     "size": 4146,
     "archiveUrl": "https://web.archive.org/web/20030721110652/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2521&CF=View&rand=562762"
+  },
+  {
+    "id": 2520,
+    "file": "replays/2520.msr",
+    "size": 4068,
+    "archiveUrl": "https://web.archive.org/web/20030521014808/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2520&CF=View&rand=406030"
+  },
+  {
+    "id": 2519,
+    "file": "replays/2519.msr",
+    "size": 1991,
+    "archiveUrl": "https://web.archive.org/web/20020519045150/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2519&CF=View&rand=358417"
   },
   {
     "id": 2518,
@@ -2448,6 +2634,12 @@
     "archiveUrl": "https://web.archive.org/web/20031130051032/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2476&CF=View&rand=983735"
   },
   {
+    "id": 2474,
+    "file": "replays/2474.msr",
+    "size": 844,
+    "archiveUrl": "https://web.archive.org/web/20030509120040/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2474&CF=View&rand=131801"
+  },
+  {
     "id": 2469,
     "file": "replays/2469.msr",
     "size": 2205,
@@ -2458,6 +2650,12 @@
     "file": "replays/2463.msr",
     "size": 2352,
     "archiveUrl": "https://web.archive.org/web/20040724195918/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2463&CF=View&rand=308640"
+  },
+  {
+    "id": 2460,
+    "file": "replays/2460.msr",
+    "size": 3941,
+    "archiveUrl": "https://web.archive.org/web/20031130045427/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2460&CF=View&rand=717486"
   },
   {
     "id": 2455,
@@ -2484,6 +2682,12 @@
     "archiveUrl": "https://web.archive.org/web/20031130044442/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2452&CF=View&rand=866063"
   },
   {
+    "id": 2448,
+    "file": "replays/2448.msr",
+    "size": 1568,
+    "archiveUrl": "https://web.archive.org/web/20031130044814/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2448&CF=View&rand=497288"
+  },
+  {
     "id": 2447,
     "file": "replays/2447.msr",
     "size": 1488,
@@ -2502,10 +2706,22 @@
     "archiveUrl": "https://web.archive.org/web/20031130051238/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2442&CF=View&rand=387351"
   },
   {
+    "id": 2439,
+    "file": "replays/2439.msr",
+    "size": 1905,
+    "archiveUrl": "https://web.archive.org/web/20031130050616/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2439&CF=View&rand=457428"
+  },
+  {
     "id": 2435,
     "file": "replays/2435.msr",
     "size": 2745,
     "archiveUrl": "https://web.archive.org/web/20031130050543/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2435&CF=View&rand=115446"
+  },
+  {
+    "id": 2434,
+    "file": "replays/2434.msr",
+    "size": 2117,
+    "archiveUrl": "https://web.archive.org/web/20031130050222/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2434&CF=View&rand=715390"
   },
   {
     "id": 2433,
@@ -2568,6 +2784,12 @@
     "archiveUrl": "https://web.archive.org/web/20030721105738/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2419&CF=View&rand=845680"
   },
   {
+    "id": 2418,
+    "file": "replays/2418.msr",
+    "size": 1824,
+    "archiveUrl": "https://web.archive.org/web/20030721074824/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2418&CF=View&rand=198236"
+  },
+  {
     "id": 2417,
     "file": "replays/2417.msr",
     "size": 1098,
@@ -2584,6 +2806,12 @@
     "file": "replays/2410.msr",
     "size": 4032,
     "archiveUrl": "https://web.archive.org/web/20031130045431/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2410&CF=View&rand=806101"
+  },
+  {
+    "id": 2405,
+    "file": "replays/2405.msr",
+    "size": 1324,
+    "archiveUrl": "https://web.archive.org/web/20030521014700/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2405&CF=View&rand=437612"
   },
   {
     "id": 2404,
@@ -2704,6 +2932,12 @@
     "file": "replays/2367.msr",
     "size": 1466,
     "archiveUrl": "https://web.archive.org/web/20031129014147/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2367&CF=View&rand=743198"
+  },
+  {
+    "id": 2366,
+    "file": "replays/2366.msr",
+    "size": 4184,
+    "archiveUrl": "https://web.archive.org/web/20030721105053/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2366&CF=View&rand=597858"
   },
   {
     "id": 2362,
@@ -3180,10 +3414,22 @@
     "archiveUrl": "https://web.archive.org/web/20031124153153/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2176&CF=View&rand=914579"
   },
   {
+    "id": 2174,
+    "file": "replays/2174.msr",
+    "size": 3658,
+    "archiveUrl": "https://web.archive.org/web/20020323043007/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2174&CF=View&rand=592561"
+  },
+  {
     "id": 2173,
     "file": "replays/2173.msr",
     "size": 2963,
     "archiveUrl": "https://web.archive.org/web/20020323042702/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2173&CF=View&rand=682217"
+  },
+  {
+    "id": 2170,
+    "file": "replays/2170.msr",
+    "size": 2790,
+    "archiveUrl": "https://web.archive.org/web/20020226054302/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2170&CF=View&rand=275009"
   },
   {
     "id": 2169,
@@ -3196,6 +3442,12 @@
     "file": "replays/2168.msr",
     "size": 1888,
     "archiveUrl": "https://web.archive.org/web/20031124155446/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2168&CF=View&rand=160103"
+  },
+  {
+    "id": 2167,
+    "file": "replays/2167.msr",
+    "size": 3225,
+    "archiveUrl": "https://web.archive.org/web/20020323042251/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2167&CF=View&rand=436839"
   },
   {
     "id": 2166,
@@ -3228,6 +3480,12 @@
     "archiveUrl": "https://web.archive.org/web/20031124154159/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2160&CF=View&rand=422346"
   },
   {
+    "id": 2159,
+    "file": "replays/2159.msr",
+    "size": 1081,
+    "archiveUrl": "https://web.archive.org/web/20030731193605/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2159&CF=View&rand=162789"
+  },
+  {
     "id": 2158,
     "file": "replays/2158.msr",
     "size": 1918,
@@ -3240,10 +3498,22 @@
     "archiveUrl": "https://web.archive.org/web/20031124153240/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2157&CF=View&rand=278600"
   },
   {
+    "id": 2156,
+    "file": "replays/2156.msr",
+    "size": 2594,
+    "archiveUrl": "https://web.archive.org/web/20030731193335/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2156&CF=View&rand=747600"
+  },
+  {
     "id": 2155,
     "file": "replays/2155.msr",
     "size": 2738,
     "archiveUrl": "https://web.archive.org/web/20030731193021/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2155&CF=View&rand=901747"
+  },
+  {
+    "id": 2153,
+    "file": "replays/2153.msr",
+    "size": 5352,
+    "archiveUrl": "https://web.archive.org/web/20030731193149/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2153&CF=View&rand=603709"
   },
   {
     "id": 2151,
@@ -3262,6 +3532,18 @@
     "file": "replays/2149.msr",
     "size": 549,
     "archiveUrl": "https://web.archive.org/web/20031124155135/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2149&CF=View&rand=227947"
+  },
+  {
+    "id": 2142,
+    "file": "replays/2142.msr",
+    "size": 1861,
+    "archiveUrl": "https://web.archive.org/web/20030721104020/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2142&CF=View&rand=306446"
+  },
+  {
+    "id": 2137,
+    "file": "replays/2137.msr",
+    "size": 2496,
+    "archiveUrl": "https://web.archive.org/web/20030521013852/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2137&CF=View&rand=199560"
   },
   {
     "id": 2134,
@@ -3304,6 +3586,12 @@
     "file": "replays/2121.msr",
     "size": 2837,
     "archiveUrl": "https://web.archive.org/web/20030731192719/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2121&CF=View&rand=975465"
+  },
+  {
+    "id": 2120,
+    "file": "replays/2120.msr",
+    "size": 1869,
+    "archiveUrl": "https://web.archive.org/web/20031122192657/http://www.samogonki.ru:80/game-on-line/default.asp?ID=2120&CF=View&rand=744354"
   },
   {
     "id": 2117,
@@ -3816,6 +4104,12 @@
     "archiveUrl": "https://web.archive.org/web/20031117211749/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1919&CF=View&rand=442467"
   },
   {
+    "id": 1911,
+    "file": "replays/1911.msr",
+    "size": 2277,
+    "archiveUrl": "https://web.archive.org/web/20030507213145/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1911&CF=View&rand=746045"
+  },
+  {
     "id": 1910,
     "file": "replays/1910.msr",
     "size": 1460,
@@ -3864,6 +4158,12 @@
     "archiveUrl": "https://web.archive.org/web/20030731191509/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1881&CF=View&rand=542561"
   },
   {
+    "id": 1879,
+    "file": "replays/1879.msr",
+    "size": 2345,
+    "archiveUrl": "https://web.archive.org/web/20030731191057/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1879&CF=View&rand=695746"
+  },
+  {
     "id": 1878,
     "file": "replays/1878.msr",
     "size": 4262,
@@ -3894,6 +4194,18 @@
     "archiveUrl": "https://web.archive.org/web/20031117211723/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1871&CF=View&rand=414228"
   },
   {
+    "id": 1869,
+    "file": "replays/1869.msr",
+    "size": 2348,
+    "archiveUrl": "https://web.archive.org/web/20030520051105/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1869&CF=View&rand=631691"
+  },
+  {
+    "id": 1868,
+    "file": "replays/1868.msr",
+    "size": 1905,
+    "archiveUrl": "https://web.archive.org/web/20030520050446/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1868&CF=View&rand=386579"
+  },
+  {
     "id": 1867,
     "file": "replays/1867.msr",
     "size": 1432,
@@ -3906,6 +4218,12 @@
     "archiveUrl": "https://web.archive.org/web/20031117210959/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1864&CF=View&rand=497980"
   },
   {
+    "id": 1863,
+    "file": "replays/1863.msr",
+    "size": 3091,
+    "archiveUrl": "https://web.archive.org/web/20030731185947/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1863&CF=View&rand=914988"
+  },
+  {
     "id": 1862,
     "file": "replays/1862.msr",
     "size": 4299,
@@ -3916,6 +4234,12 @@
     "file": "replays/1861.msr",
     "size": 3133,
     "archiveUrl": "https://web.archive.org/web/20031117210246/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1861&CF=View&rand=885292"
+  },
+  {
+    "id": 1860,
+    "file": "replays/1860.msr",
+    "size": 2848,
+    "archiveUrl": "https://web.archive.org/web/20030731185710/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1860&CF=View&rand=440753"
   },
   {
     "id": 1857,
@@ -3934,6 +4258,18 @@
     "file": "replays/1847.msr",
     "size": 2001,
     "archiveUrl": "https://web.archive.org/web/20030731185024/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1847&CF=View&rand=790154"
+  },
+  {
+    "id": 1845,
+    "file": "replays/1845.msr",
+    "size": 2178,
+    "archiveUrl": "https://web.archive.org/web/20030507214022/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1845&CF=View&rand=251827"
+  },
+  {
+    "id": 1841,
+    "file": "replays/1841.msr",
+    "size": 1832,
+    "archiveUrl": "https://web.archive.org/web/20030731184633/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1841&CF=View&rand=293269"
   },
   {
     "id": 1840,
@@ -4432,6 +4768,12 @@
     "file": "replays/1659.msr",
     "size": 1507,
     "archiveUrl": "https://web.archive.org/web/20031115104718/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1659&CF=View&rand=511262"
+  },
+  {
+    "id": 1656,
+    "file": "replays/1656.msr",
+    "size": 2435,
+    "archiveUrl": "https://web.archive.org/web/20030506051502/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1656&CF=View&rand=202902"
   },
   {
     "id": 1651,
@@ -5298,6 +5640,12 @@
     "archiveUrl": "https://web.archive.org/web/20031108124802/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1319&CF=View&rand=499236"
   },
   {
+    "id": 1318,
+    "file": "replays/1318.msr",
+    "size": 2024,
+    "archiveUrl": "https://web.archive.org/web/20030518055548/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1318&CF=View&rand=315444"
+  },
+  {
     "id": 1317,
     "file": "replays/1317.msr",
     "size": 1136,
@@ -5326,6 +5674,12 @@
     "file": "replays/1311.msr",
     "size": 1525,
     "archiveUrl": "https://web.archive.org/web/20030518053735/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1311&CF=View&rand=830404"
+  },
+  {
+    "id": 1308,
+    "file": "replays/1308.msr",
+    "size": 1169,
+    "archiveUrl": "https://web.archive.org/web/20030721031454/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1308&CF=View&rand=872322"
   },
   {
     "id": 1307,
@@ -5382,6 +5736,12 @@
     "archiveUrl": "https://web.archive.org/web/20040726235252/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1295&CF=View&rand=695135"
   },
   {
+    "id": 1294,
+    "file": "replays/1294.msr",
+    "size": 6017,
+    "archiveUrl": "https://web.archive.org/web/20030731070114/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1294&CF=View&rand=410583"
+  },
+  {
     "id": 1293,
     "file": "replays/1293.msr",
     "size": 4488,
@@ -5392,6 +5752,12 @@
     "file": "replays/1292.msr",
     "size": 2394,
     "archiveUrl": "https://web.archive.org/web/20031108121712/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1292&CF=View&rand=612912"
+  },
+  {
+    "id": 1289,
+    "file": "replays/1289.msr",
+    "size": 2113,
+    "archiveUrl": "https://web.archive.org/web/20030518055806/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1289&CF=View&rand=628951"
   },
   {
     "id": 1287,
@@ -5500,6 +5866,12 @@
     "file": "replays/1238.msr",
     "size": 2982,
     "archiveUrl": "https://web.archive.org/web/20040718140930/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1238&CF=View&rand=909372"
+  },
+  {
+    "id": 1236,
+    "file": "replays/1236.msr",
+    "size": 2846,
+    "archiveUrl": "https://web.archive.org/web/20030518054749/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1236&CF=View&rand=143962"
   },
   {
     "id": 1235,
@@ -5860,6 +6232,12 @@
     "file": "replays/1049.msr",
     "size": 2730,
     "archiveUrl": "https://web.archive.org/web/20040131232019/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1049&CF=View&rand=810133"
+  },
+  {
+    "id": 1046,
+    "file": "replays/1046.msr",
+    "size": 2278,
+    "archiveUrl": "https://web.archive.org/web/20030517012913/http://www.samogonki.ru:80/game-on-line/default.asp?ID=1046&CF=View&rand=520951"
   },
   {
     "id": 1040,
@@ -6312,6 +6690,12 @@
     "archiveUrl": "https://web.archive.org/web/20030525221404/http://www.samogonki.ru:80/game-on-line/default.asp?ID=886&CF=View&rand=639020"
   },
   {
+    "id": 884,
+    "file": "replays/884.msr",
+    "size": 2789,
+    "archiveUrl": "https://web.archive.org/web/20020726062731/http://www.samogonki.ru:80/game-on-line/default.asp?ID=884&CF=View&rand=434959"
+  },
+  {
     "id": 875,
     "file": "replays/875.msr",
     "size": 3801,
@@ -6334,6 +6718,12 @@
     "file": "replays/866.msr",
     "size": 3520,
     "archiveUrl": "https://web.archive.org/web/20030525222033/http://www.samogonki.ru:80/game-on-line/default.asp?ID=866&CF=View&rand=649686"
+  },
+  {
+    "id": 864,
+    "file": "replays/864.msr",
+    "size": 2090,
+    "archiveUrl": "https://web.archive.org/web/20020726000819/http://www.samogonki.ru:80/game-on-line/default.asp?ID=864&CF=View&rand=841094"
   },
   {
     "id": 857,

@@ -582,7 +582,7 @@
     ],
     "isChampionship": true,
     "replayId": 3650,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030913082918",
     "archiveUrl": "https://web.archive.org/web/20030913082918/http://www.samogonki.ru:80/games/game_info.asp?rand=338317&ID=3650"
   },
@@ -971,7 +971,7 @@
     ],
     "isChampionship": true,
     "replayId": 3510,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030505232003",
     "archiveUrl": "https://web.archive.org/web/20030505232003/http://www.samogonki.ru:80/games/game_info.asp?rand=740562&ID=3510"
   },
@@ -1169,7 +1169,7 @@
     ],
     "isChampionship": true,
     "replayId": 3489,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20040724003232",
     "archiveUrl": "https://web.archive.org/web/20040724003232/http://www.samogonki.ru:80/games/game_info.asp?rand=581376&ID=3489"
   },
@@ -1809,7 +1809,7 @@
     ],
     "isChampionship": true,
     "replayId": 3338,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030430234730",
     "archiveUrl": "https://web.archive.org/web/20030430234730/http://www.samogonki.ru:80/games/game_info.asp?ID=3338"
   },
@@ -3243,7 +3243,7 @@
     ],
     "isChampionship": true,
     "replayId": 3214,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030430235009",
     "archiveUrl": "https://web.archive.org/web/20030430235009/http://www.samogonki.ru:80/games/game_info.asp?ID=3214"
   },
@@ -3830,7 +3830,7 @@
     ],
     "isChampionship": true,
     "replayId": 3139,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030430234522",
     "archiveUrl": "https://web.archive.org/web/20030430234522/http://www.samogonki.ru:80/games/game_info.asp?ID=3139"
   },
@@ -5950,7 +5950,7 @@
     ],
     "isChampionship": true,
     "replayId": 2816,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030530115627",
     "archiveUrl": "https://web.archive.org/web/20030530115627/http://www.samogonki.ru:80/games/game_info.asp?ID=2816"
   },
@@ -6217,7 +6217,7 @@
     ],
     "isChampionship": true,
     "replayId": 2755,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030710152716",
     "archiveUrl": "https://web.archive.org/web/20030710152716/http://www.samogonki.ru:80/games/game_info.asp?ID=2755"
   },
@@ -8010,7 +8010,7 @@
     ],
     "isChampionship": true,
     "replayId": 2153,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20020705071414",
     "archiveUrl": "https://web.archive.org/web/20020705071414/http://www.samogonki.ru:80/games/game_info.asp?ID=2153"
   },
@@ -10216,7 +10216,7 @@
     ],
     "isChampionship": true,
     "replayId": 1308,
-    "replayAvailable": false,
+    "replayAvailable": true,
     "timestamp": "20030527171059",
     "archiveUrl": "https://web.archive.org/web/20030527171059/http://www.samogonki.ru:80/games/game_info.asp?ID=1308"
   },
