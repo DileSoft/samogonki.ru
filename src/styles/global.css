@@ -1267,6 +1267,19 @@ a.is-active .icon-swap__base {
   filter: saturate(1.05);
 }
 
+.additions {
+  margin-top: 34px;
+}
+
+.additions .chapter + .chapter {
+  margin-top: 26px;
+}
+
+.additions .chapter .text-link {
+  display: inline-block;
+  margin-top: 9px;
+}
+
 /* ---------- Team, contacts, buy, files, online, forum, sitemap ---------- */
 
 .team-grid {
