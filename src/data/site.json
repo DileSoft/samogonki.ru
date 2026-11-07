@@ -1,0 +1,48 @@
+{
+  "title": "Самогонки",
+  "subtitle": "Архив официального сайта · 2002",
+  "logo": "assets/logo.gif",
+  "sidebarArt": "assets/sidebar-art.jpg",
+  "tagline": "Для тех кто доГоняет!",
+  "languages": [
+    { "code": "en", "label": "English", "image": "assets/lang-en.gif", "enabled": false },
+    { "code": "ru", "label": "Русский", "image": "assets/lang-ru.gif", "enabled": true }
+  ],
+  "topNav": [
+    { "id": "files", "label": "Файлы", "to": "/files", "icon": "assets/top-files.gif", "iconHover": "assets/top-files-on.gif" },
+    { "id": "shots", "label": "Скриншоты", "to": "/shots", "icon": "assets/top-shots.gif", "iconHover": "assets/top-shots-on.gif" },
+    { "id": "buy", "label": "Где купить", "to": "/buy", "icon": "assets/top-buy.gif", "iconHover": "assets/top-buy-on.gif" },
+    { "id": "forum", "label": "Форум", "to": "/forum", "icon": "assets/top-forum.gif", "iconHover": "assets/top-forum-on.gif" }
+  ],
+  "sidebar": [
+    { "id": "news", "label": "Новости", "to": "/news", "icon": "assets/menu-news.gif", "iconHover": "assets/menu-news-on.gif" },
+    { "id": "game", "label": "Об игре", "to": "/game", "icon": "assets/menu-game.gif", "iconHover": "assets/menu-game-on.gif" },
+    { "id": "universe", "label": "Вселенная", "to": "/universe", "icon": "assets/menu-features.gif", "iconHover": "assets/menu-features-on.gif" },
+    { "id": "team", "label": "Создатели", "to": "/team", "icon": "assets/menu-team.gif", "iconHover": "assets/menu-team-on.gif" }
+  ],
+  "online": {
+    "label": "Самогонки On-line",
+    "to": "/online",
+    "textLines": ["Самогон", "On-line"],
+    "startImage": "assets/start.gif",
+    "startImageHover": "assets/start-on.gif"
+  },
+  "logos": {
+    "kd": { "src": "assets/kd.gif", "alt": "K-D Lab", "href": "https://kdlab.com/" },
+    "oneC": { "src": "assets/1c.gif", "alt": "1C", "href": "https://games.1c.ru/" }
+  },
+  "footer": {
+    "bitrixLogo": "assets/logo-bitrix.gif",
+    "bitrixCredit": "Дизайн и программирование: компания «Битрикс»",
+    "bitrixHref": "https://www.bitrix.ru/",
+    "character": "assets/footer-char.gif",
+    "curve": "assets/footer-curve.gif",
+    "links": [
+      { "id": "contacts", "label": "Контакты", "to": "/contacts", "icon": "assets/footer-contacts.gif", "iconHover": "assets/footer-contacts-on.gif" },
+      { "id": "map", "label": "Карта", "to": "/map", "icon": "assets/footer-map.gif", "iconHover": "assets/footer-map-on.gif" }
+    ],
+    "copyright": "Copyright © 2001 K-D LAB",
+    "archiveNote": "Восстановлено по материалам веб-архива"
+  },
+  "ticker": "Официальный сервер онлайновых состязаний · 17-й Чемпионат СамоГонок · Приз — The Elder Scrolls III: Morrowind"
+}

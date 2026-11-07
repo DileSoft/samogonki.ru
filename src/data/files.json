@@ -1,0 +1,24 @@
+{
+  "title": "Файлы",
+  "lead": "Обои, скриншоты и материалы с официального сайта. Все файлы сохранены в архивном качестве.",
+  "groups": [
+    {
+      "title": "Обои",
+      "items": [
+        { "title": "Спанкинг Раннерс — ключевой арт", "meta": "JPEG · 460 × 215", "href": "assets/header.jpg", "preview": "assets/header.jpg" },
+        { "title": "Обои сайта", "meta": "JPEG · 1920 × 1080", "href": "assets/page_bg.jpg", "preview": "assets/page_bg.jpg" },
+        { "title": "Вселенная СамоГа — сцена 1", "meta": "JPEG · 161 × 120", "href": "assets/scene1.jpg", "preview": "assets/scene1.jpg" },
+        { "title": "Вселенная СамоГа — сцена 8", "meta": "JPEG · 161 × 130", "href": "assets/scene8.jpg", "preview": "assets/scene8.jpg" }
+      ]
+    },
+    {
+      "title": "Скриншоты",
+      "items": [
+        { "title": "Скриншот 1", "meta": "JPEG · 1920 × 1080", "href": "assets/shots/shot1.jpg", "preview": "assets/shots/shot1.jpg" },
+        { "title": "Скриншот 2", "meta": "JPEG · 1920 × 1080", "href": "assets/shots/shot2.jpg", "preview": "assets/shots/shot2.jpg" },
+        { "title": "Скриншот 3", "meta": "JPEG · 1920 × 1080", "href": "assets/shots/shot3.jpg", "preview": "assets/shots/shot3.jpg" },
+        { "title": "Скриншот 4", "meta": "JPEG · 1920 × 1080", "href": "assets/shots/shot4.jpg", "preview": "assets/shots/shot4.jpg" }
+      ]
+    }
+  ]
+}

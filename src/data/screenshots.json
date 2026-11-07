@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Зелёная планета",
+    "thumb": "assets/shots/shot1.jpg",
+    "full": "assets/shots/shot1.jpg",
+    "alt": "Наездник на зелёной планете"
+  },
+  {
+    "id": 2,
+    "title": "Красные скалы",
+    "thumb": "assets/shots/shot2.jpg",
+    "full": "assets/shots/shot2.jpg",
+    "alt": "Гонка среди красных скал"
+  },
+  {
+    "id": 3,
+    "title": "Стартовая решётка",
+    "thumb": "assets/shots/shot3.jpg",
+    "full": "assets/shots/shot3.jpg",
+    "alt": "Стартовая решётка гонки"
+  },
+  {
+    "id": 4,
+    "title": "Вулканогон",
+    "thumb": "assets/shots/shot4.jpg",
+    "full": "assets/shots/shot4.jpg",
+    "alt": "Трасса Вулканогон"
+  },
+  {
+    "id": 5,
+    "title": "Клоуны в атаке",
+    "thumb": "assets/shots/shot5.jpg",
+    "full": "assets/shots/shot5.jpg",
+    "alt": "Персонажи игры на трассе"
+  },
+  {
+    "id": 6,
+    "title": "Панорамный ракурс",
+    "thumb": "assets/shots/shot6.jpg",
+    "full": "assets/shots/shot6.jpg",
+    "alt": "Панорамный вид гоночной планеты"
+  },
+  {
+    "id": 7,
+    "title": "Финишная прямая",
+    "thumb": "assets/shots/shot7.jpg",
+    "full": "assets/shots/shot7.jpg",
+    "alt": "Гонщики на финишной прямой"
+  }
+]
